@@ -8,7 +8,10 @@ Reconocimiento de nuestro entorno y Armado de equipos con SCV
 
 ## ❓ ¿Quién soy?
 
-**Rol:** Diseñador de Sonido  
+**Rol:** Diseñador de Sonido 
+El diseñador de sonido es un profesional encargado de crear, manipular y gestionar los elementos sonoros de un proyecto audiovisual, musical o interactivo. Su labor es crucial para transmitir emociones, ambientar escenas o reforzar narrativas. Además, el diseñador de sonido también puede componer música para videojuegos. 
+
+
 **Ubicación:** CEAD JOSE ACEVEDO GÓMEZ, BOGOTÁ
 
 ### Perfil:

@@ -19,5 +19,4 @@ Mi nombre es Juan Lucas Cardozo Orjuela, soy estudiante de Ingeniería Multimedi
 
 📧 Mi correo institucional es: [jlcardozo@unadvirtual.edu.co](mailto:jlcardozo@unadvirtual.edu.co)
 
-**Mi comida favorita es la comida casera de hogar:**
 

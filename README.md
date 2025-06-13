@@ -21,4 +21,3 @@ Mi nombre es Juan Lucas Cardozo Orjuela, soy estudiante de Ingeniería Multimedi
 
 **Mi comida favorita es la comida casera de hogar:**
 
-![Comida favorita](./comida%20casera.png)

@@ -2,20 +2,20 @@
 
 Reconocimiento de nuestro entorno y Armado de equipos con SCV
 
-## 👨‍🎓 LUCAS CARDOZO
+👨‍🎓 **LUCAS CARDOZO**
 
-![Foto de Lucas](./foto universidad.jpg)
+![Foto de Lucas](./foto%20universidad.jpg)
 
-### ❓¿Quién soy?
+## ❓ ¿Quién soy?
 
 **Rol:** Diseñador de Sonido  
 **Ubicación:** CEAD JOSE ACEVEDO GÓMEZ, BOGOTÁ
 
-**Perfil:**  
-Mi nombre es Juan Lucas Cardozo Orjuela, soy estudiante de Ingeniería Multimedia, nací en Bogotá D.C, tengo 21 años. Me encantan los videojuegos, también el diseño y animación, diseño sonoro, entre otros. Espero contribuir demasiado en este proyecto junto a ustedes.
+### Perfil:
+Mi nombre es Juan Lucas Cardozo Orjuela, soy estudiante de Ingeniería Multimedia, nací en Bogotá D.C, tengo 21 años. Me encantan los videojuegos, también el diseño de animación, diseño sonoro, entre otros. Espero contribuir demasiado en este proyecto junto a ustedes.
 
-📧 Mi correo institucional es: jlcardozo@unadvirtual.edu.com
+📧 Mi correo institucional es: [jlcardozo@unadvirtual.edu.co](mailto:jlcardozo@unadvirtual.edu.co)
 
 **Mi comida favorita es la comida casera de hogar:**
 
-![Comida favorita](./comida casera.png)
+![Comida favorita](./comida%20casera.png)

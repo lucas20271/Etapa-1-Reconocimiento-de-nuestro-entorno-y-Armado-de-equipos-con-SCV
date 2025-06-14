@@ -1,22 +1,22 @@
 # Etapa1_PV_Lobos_Salvajes
 
-Reconocimiento de nuestro entorno y Armado de equipos con SCV
+Presentacion personal equipo de trabajo
 
-👨‍🎓 **LUCAS CARDOZO**
+👨‍🎓 **Miguel Angel Wilches**
 
-![Foto de Lucas](./foto%20universidad.jpg)
+![Foto de miguel]()
 
-## ❓ ¿Quién soy?
+## ❓ Sobre Mi:
 
-**Rol:** Diseñador de Sonido 
-El diseñador de sonido es un profesional encargado de crear, manipular y gestionar los elementos sonoros de un proyecto audiovisual, musical o interactivo. Su labor es crucial para transmitir emociones, ambientar escenas o reforzar narrativas. Además, el diseñador de sonido también puede componer música para videojuegos. 
+**Rol:** Artista de Medio Ambiente 
+A partir de arte conceptual, referencias del mundo real y escaneos, los artistas de entornos crean y diseñan entornos digitales en 3D, desde la compilación de un set completo hasta la dispersión de pequeñas rocas, que forman el mundo de una película o un videojuego. Incluye rellenar un entorno con activos, lo que se conoce comúnmente como decorado. Este rol suele ser una especialización de un modelador 3D. 
 
 
-**Ubicación:** CEAD JOSE ACEVEDO GÓMEZ, BOGOTÁ
+**Ubicación:** CEAD Chiquinquira, Chiquinquira Boyaca
 
 ### Perfil:
-Mi nombre es Juan Lucas Cardozo Orjuela, soy estudiante de Ingeniería Multimedia, nací en Bogotá D.C, tengo 21 años. Me encantan los videojuegos, también el diseño de animación, diseño sonoro, entre otros. Espero contribuir demasiado en este proyecto junto a ustedes.
+Mi nombre es Miguel angel Wilches tengo 21 años amante a los videojuegos desde muy joven, me gusta los videojuegos de historia de mundo abierto y estrategia, me considero una persona que siempre trata de dar lo mejor, a pesar de las consecuencias que se pueden presentar, pero aun asi se espera grandes resultados, mis pasatiempos favoritos es ver series de anime y leer libros y pasar tiempo con mi familia y amigos.
 
-📧 Mi correo institucional es: [jlcardozo@unadvirtual.edu.co](mailto:jlcardozo@unadvirtual.edu.co)
+📧 Mi correo institucional es: [mawilchesj@unadvirtual.edu.co](mailto:mawilchesj@unadvirtual.edu.co)
 
 

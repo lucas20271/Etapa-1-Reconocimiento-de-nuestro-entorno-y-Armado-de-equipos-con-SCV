@@ -1,4 +1,4 @@
-# Etapa1_PV_Lobos_Creativos
+# Etapa1_PV_Lobos_Salvajes
 
 Reconocimiento de nuestro entorno y Armado de equipos con SCV
 

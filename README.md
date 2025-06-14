@@ -1,4 +1,4 @@
-# Etapa1_PV_Lobos_Creativos_Grupo_3
+# Etapa1_PV_Lobos_Creativos
 
 Reconocimiento de nuestro entorno y Armado de equipos con SCV
 

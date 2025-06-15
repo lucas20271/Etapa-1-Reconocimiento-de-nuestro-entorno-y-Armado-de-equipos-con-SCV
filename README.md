@@ -4,7 +4,7 @@ Presentacion personal equipo de trabajo
 
 👨‍🎓 **Miguel angel wilches julio**
 
-![Foto de miguel](./miguel_wilches/miguel_wilches.png)
+![Foto de miguel]("C:\Users\gokuj\Pictures\imagen universidad\imagen universidad miguel.jpg")
 
 ## ❓ ¿Quién soy?
 
